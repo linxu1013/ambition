@@ -1,0 +1,46 @@
+/* HoverSlider Light Skin */
+
+
+
+.hs-lightskin {
+	padding: 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webit-border-radius: 5px;
+	background: white;
+}
+
+.hs-btm-lightskin .hs-shadow {
+	height: 28px;
+}
+
+.hs-btm-lightskin .hs-controls {
+	height: 50px;
+}
+
+.hs-btm-lightskin .hs-controls span {
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 50px;
+}
+
+.hs-btm-lightskin .hs-slideline {
+	top: 5px;
+	height: 1px;
+	background: #ccc;
+}
+
+.hs-btm-lightskin .hs-slider {
+	height: 5px;
+	top: -2px;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-weblkit-border-radius: 2px;
+	background-color: #bbb;
+}
+
+.hs-btm-lightskin .hs-slider,
+.hs-btm-lightskin .hs-slideline {
+	box-shadow: 0px 1px 0px white;
+}

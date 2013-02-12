@@ -1,0 +1,44 @@
+/* HoverSlider Dark Skin 2 */
+
+
+
+.hs-darkskin2 {
+	padding: 10px;
+	border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webit-border-radius: 7px;
+	background: #111;
+}
+
+.hs-btm-darkskin2 .hs-shadow {
+	height: 24px !important;
+}
+
+.hs-btm-darkskin2 .hs-controls {
+	height: 50px;
+}
+
+.hs-btm-darkskin2 .hs-controls span {
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 50px;
+}
+
+.hs-btm-darkskin2 .hs-slideline {
+	top: 5px;
+	height: 2px;
+	background: #222;
+	border-bottom: 1px solid #555;
+}
+
+.hs-btm-darkskin2 .hs-slider {
+	height: 8px;
+	top: -4px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-weblkit-border-radius: 5px;
+	background: #111;
+	border-top: 1px solid #555;
+	box-shadow: 0px 2px 6px -3px black;
+}

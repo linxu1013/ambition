@@ -1,0 +1,37 @@
+/* HoverSlider Default Skin */
+
+
+
+.hs-defaultskin {
+}
+
+.hs-btm-defaultskin .hs-shadow {
+	height: 0px !important;
+}
+
+.hs-btm-defaultskin .hs-controls {
+	height: 50px;
+}
+
+.hs-btm-defaultskin .hs-controls span {
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 50px;
+}
+
+.hs-btm-defaultskin .hs-slideline {
+	top: 5px;
+	height: 1px;
+	background: #aaa;
+}
+
+.hs-btm-defaultskin .hs-slider {
+	height: 5px;
+	top: -2px;
+	background: #999;
+}
+
+.hs-btm-defaultskin .hs-title-active {
+	font-weight: bold;
+}
